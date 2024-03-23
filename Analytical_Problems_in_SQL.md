@@ -2,12 +2,25 @@
 
 An exercise of PostgreSQL using the ClassicModels database.
 
+Pose business problems relating to the ClassicModels database and solve them using PostgreSQL queries.
+
 ---
 
 ## Table of Contents <a name="toc"></a>
+- [Database Information](#data)
 - [Problem 1: Grace Period is Over](#prob1)
 - [Problem 2: Overly-Friendly Salespeople](#prob2)
 - [Problem 3: Shipping Department Woes](#prob3)
+
+---
+
+## Database Info <a name="data"></a>
+
+Database Source: https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/
+
+ClassicModels Entity Relationship Diagram (ERD):
+
+<img src="https://github.com/chill0121/Analytical_SQL/blob/main/Images/ClassicModels_ERD.png?raw=true" alt="1" width="700"/>
 
 ---
 
